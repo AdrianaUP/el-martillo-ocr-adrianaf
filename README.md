@@ -3,7 +3,7 @@
 Este proyecto documenta un pipeline de OCR para una página del periódico "El Martillo". Se intentaron tres enfoques (Google Vision API, Tesseract y EasyOCR) y se entregan los componentes clave: notebook, estructura de datos, CSV de salida y visualización.
 
 ## Estructura
-- `notebooks/ocr_pipeline.ipynb`: notebook principal con intentos de OCR y fallback simulado.
+- `notebooks/el_martillo_ocr.ipynb`: notebook principal con intentos de OCR y fallback simulado.
 - `data/el_martillo/page_01.png`: imagen de entrada.
 - `data/processed/el_martillo_structured.csv`: salida estructurada.
 - `requirements.txt`: dependencias usadas.
