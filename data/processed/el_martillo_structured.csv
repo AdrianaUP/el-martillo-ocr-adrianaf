@@ -1,0 +1,5 @@
+date,issue_number,headline,section,type,text_excerpt
+desconocido,desconocido,Texto simulado del periódico El Martillo.,general,article,Texto simulado del periódico El Martillo.
+desconocido,desconocido,"Se intentó OCR con Google Vision, Tesseract y EasyOCR, pero por limitaciones de ",general,article,"Se intentó OCR con Google Vision, Tesseract y EasyOCR, pero por limitaciones de tiempo/instalación se usa un extracto simulado."
+desconocido,desconocido,Titular: Avisos y noticias locales,general,advertisement,Titular: Avisos y noticias locales
+desconocido,desconocido,"Contenido: Se listan anuncios, notas breves y editoriales de la edición.",general,opinion,"Contenido: Se listan anuncios, notas breves y editoriales de la edición."
